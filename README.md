@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://th.bing.com/th/id/R.c0bc86a4d4cbd1ab4d9472230de6813b?rik=My5otM9MhQNXZw&pid=ImgRaw&r=0"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
