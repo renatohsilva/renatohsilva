@@ -54,6 +54,6 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/renatohsilva/renatohsilva/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/renatohsilva/renatohsilva/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
